@@ -4,7 +4,7 @@ This repository contains three apps built using the Tkinter GUI toolkit for Pyth
 
 - Pomodoro App: A productivity tool that uses the Pomodoro technique to help you stay focused and improve your productivity. Set a timer for 25 minutes, and take a short break after each work session.
 
-![Pomodoro App Screenshot](images/pomodoro.png)
+
 
 - Speed to Mile Converter: A simple app that converts the speed in kilometers per hour to miles per hour.
 
@@ -29,3 +29,7 @@ If you would like to contribute to any of the apps, feel free to open an issue o
 ## License
 
 This repository is licensed under the MIT License. See the `LICENSE` file for details.
+
+![Pomodoro App Screenshot1](images/pomodoro.png)
+
+![Pomodoro App Screenshot2](images/Ekran Görüntüsü (54).png)
