@@ -32,4 +32,3 @@ This repository is licensed under the MIT License. See the `LICENSE` file for de
 
 ![Pomodoro App Screenshot1](images/pomodoro.png)
 
-![Pomodoro App Screenshot2](images/Ekran Görüntüsü (54).png)
